@@ -38,6 +38,7 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+- **[FacelessShorts](https://facelessshorts.io/)** - Scripted faceless short-form video series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 
 ## Content Distribution Platforms
 
